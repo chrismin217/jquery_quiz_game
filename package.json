@@ -1,0 +1,19 @@
+{
+  "name": "jquery_quiz_game",
+  "version": "1.0.0",
+  "description": "A demonstration of jQuery through a simple quiz game.\r This project is mostly centered around managing user input data, and a scoring system.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrismin217/jquery_quiz_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrismin217/jquery_quiz_game/issues"
+  },
+  "homepage": "https://github.com/chrismin217/jquery_quiz_game#readme"
+}
